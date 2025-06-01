@@ -1,4 +1,4 @@
-# Hey there - I'm Belle!
+# Hey there - I'm Belle! <img src="cat.gif" width="50" />
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
