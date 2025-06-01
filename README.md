@@ -1,16 +1,12 @@
-## Hi there 👋
+# Olá, eu sou Belle!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**IsabelleKBarbosa/IsabelleKBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Estudar, explorar novos assuntos e superar desafios são parte do que me move — e foi assim que encontrei na tecnologia um caminho que faz sentido pra mim. <br><br>
+  Atualmente, estudo <strong>Sistemas de Informação (BSI)</strong> na UFRPE e busco aproveitar cada oportunidade para aprender o máximo possível.<br><br>
+  Este GitHub é meu espaço de experimentação, aprendizado e crescimento. <br><br>
+  <strong>Sinta-se convidado(a) a navegar pelos meus projetos e acompanhar meu desenvolvimento!</strong>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+ <a href="https://www.linkedin.com/in/isabelle-barbosa-a37972a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
