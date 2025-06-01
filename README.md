@@ -12,6 +12,6 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/isabelle-barbosa-a37972a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<h5 align="center">  
+<h4 align="center">  
  "If you are not having fun, you are not learning. There is a pleasure in finding things out." — Richard Feynman.
-</h5>
+</h4>
