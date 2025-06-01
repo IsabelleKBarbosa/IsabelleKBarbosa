@@ -1,4 +1,5 @@
-# Olá, eu sou Belle!
+# Hey there - I'm Belle!
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
@@ -10,3 +11,7 @@
 
 <p align="left">
  <a href="https://www.linkedin.com/in/isabelle-barbosa-a37972a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<h5 align="center">  
+ "If you are not having fun, you are not learning. There is a pleasure in finding things out." — Richard Feynman.
+</h5>
